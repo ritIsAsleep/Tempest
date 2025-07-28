@@ -8,22 +8,31 @@
 
 Presenting Tempest, your go-to site for instant weather results! Simply enter in a desired location, and get all the essential weather information right at your fingertips. Powered by OpenWeather, it provides accurate and live weather information. Know your weather, instantly.
 
-## The Why & Hackathon
-Shoutout to Boot.dev (Boot.dev 2025 Hackathon) for their amazing opportunity to program ANYTHING and truly get your passion/capstone project ideas into a fully developed program!
+## The Why & The Hackathon
+Shoutout to Boot.dev (2025 Hackathon) for their amazing opportunity to program ANYTHING and truly get your passion/capstone project ideas into a fully developed program!
 
-I built Tempest as a hands-on project to strengthen my skills in Web Development and displaying/fetching real-time information from APIs. Not to mention, this is one of my first ever hackathon and experience using GitHub!
+I built Tempest as a hands-on project to work on my skills in Web Development and displaying/fetching real-time information from APIs. Not to mention, this is one of my first ever experience with Hackathons & GitHub!
 
-My goal was to provide a clean and easy-to-read website for people who want to find out what the weather is like in specific locations instantly. While doing so, I made sure to incorporate essential information and images to display the weather conditions thanks to OpenWeather!
+My goal was to provide a clean and easy-to-read website for people who want to find out what the weather is like in specific locations instantly. While doing so, I made sure to incorporate essential information (which can be found in the features section) and clipart images to display the weather conditions thanks to OpenWeather!
 
 ## Video Demo & Live Web Page
 
-Access the Live Web Page Here - https://ritisasleep.github.io/Tempest/
+Access the Live Web Page Here: https://ritisasleep.github.io/Tempest/
 
 Watch the Live Demo 
 
 
 https://github.com/user-attachments/assets/a7daa225-4d11-4594-b76a-133685eb1ade
 
+
+## 💫 Key Features
+* ⚡️ Real-Time Info: The OpenSource API provides the newest weather information & Tempest delivers the info instantly!
+* 📍 Location Search: Tempest works on any location (please try to use city names).
+* 🌡 Temperature & Conditions: Displays current temperature & weather condition (even including, 'feels like' temperatures).
+* 💨 Wind Speed & Humidity: Provides essential atmospheric details.
+* 💻 Minimalist UI: Offers a clean and easy-to-read look for users!
+* ⚙️ API Usage: Data/Information is from OpenWeather (API) for accurate info & clear images.
+* 🚫 Error Handling: Handles with invalid city names and API issues.
 
 
 ## ☔️ Getting Started

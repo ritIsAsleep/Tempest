@@ -9,7 +9,7 @@
 Presenting Tempest, your go-to site for instant weather results! Simply enter in a desired location, and get all the essential weather information right at your fingertips. Powered by OpenWeather, it provides accurate and live weather information. Know your weather, instantly.
 
 ## The Why & Hackathon
-Shoutout to Boot.dev for their amazing opportunity to program ANYTHING and truly get your passion/capstone project ideas into a fully developed program!
+Shoutout to Boot.dev (Boot.dev 2025 Hackathon) for their amazing opportunity to program ANYTHING and truly get your passion/capstone project ideas into a fully developed program!
 
 I built Tempest as a hands-on project to strengthen my skills in Web Development and displaying/fetching real-time information from APIs. Not to mention, this is one of my first ever hackathon and experience using GitHub!
 

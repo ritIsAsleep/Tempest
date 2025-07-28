@@ -8,7 +8,14 @@
 
 Presenting Tempest, your go-to site for instant weather results! Simply enter in a desired location, and get all the essential weather information right at your fingertips. Powered by OpenWeather, it provides accurate and live weather information. Know your weather, instantly.
 
-## Live Demo & Web Page
+## The Why & Hackathon
+Shoutout to Boot.dev for their amazing opportunity to program ANYTHING and truly get your passion/capstone project ideas into a fully developed program!
+
+I built Tempest as a hands-on project to strengthen my skills in Web Development and displaying/fetching real-time information from APIs. Not to mention, this is one of my first ever hackathon and experience using GitHub!
+
+My goal was to provide a clean and easy-to-read website for people who want to find out what the weather is like in specific locations instantly. While doing so, I made sure to incorporate essential information and images to display the weather conditions thanks to OpenWeather!
+
+## Video Demo & Live Web Page
 
 Access the Live Web Page Here - https://ritisasleep.github.io/Tempest/
 

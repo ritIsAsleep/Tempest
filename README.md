@@ -15,6 +15,10 @@ Access the Live Web Page Here - https://ritisasleep.github.io/Tempest/
 Watch the Live Demo 
 
 
+https://github.com/user-attachments/assets/a7daa225-4d11-4594-b76a-133685eb1ade
+
+
+
 ## ☔️ Getting Started
 
 1. Fork the Repo Or Access the Live Web Page

@@ -43,9 +43,10 @@ https://github.com/user-attachments/assets/a7daa225-4d11-4594-b76a-133685eb1ade
 ## ☔️ Getting Started
 
 1. Fork the Repo Or Access the Live Web Page
-2. Prerequisites (HTML5, CSS3, & JavaScript)
-3. Enter Your Desired Location to Gain Weather Info on
-4. Press Enter & View the Results!
+   * Or Use Replit to Fork the Code: https://replit.com/@ri2who/Tempest-Weather-App-Ritu-S?v=1#index.html
+3. Prerequisites (HTML5, CSS3, & JavaScript)
+4. Enter Your Desired Location to Gain Weather Info on
+5. Press Enter & View the Results!
  
 
 

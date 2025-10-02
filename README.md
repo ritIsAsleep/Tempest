@@ -30,14 +30,14 @@ Watch the Live Demo
 https://github.com/user-attachments/assets/a7daa225-4d11-4594-b76a-133685eb1ade
 
 
-## 💫 Key Features
-* ⚡️ Real-Time Info: The OpenSource API provides the newest weather information & Tempest delivers the info instantly!
-* 📍 Location Search: Tempest works on any location (please try to use city names).
-* 🌡 Temperature & Conditions: Displays current temperature & weather condition (even including, 'feels like' temperatures).
-* 💨 Wind Speed & Humidity: Provides essential atmospheric details.
-* 💻 Minimalist UI: Offers a clean and easy-to-read look for users!
-* ⚙️ API Usage: Data/Information is from OpenWeather (API) for accurate info & clear images.
-* 🚫 Error Handling: Handles with invalid city names and API issues.
+## Key Features
+* Real-Time Info: The OpenSource API provides the newest weather information & Tempest delivers the info instantly!
+* Location Search: Tempest works on any location (please try to use city names).
+* Temperature & Conditions: Displays current temperature & weather condition (even including, 'feels like' temperatures).
+* Wind Speed & Humidity: Provides essential atmospheric details.
+* Minimalist UI: Offers a clean and easy-to-read look for users!
+* API Usage: Data/Information is from OpenWeather (API) for accurate info & clear images.
+* Error Handling: Handles with invalid city names and API issues.
 
 
 ## ☔️ Getting Started

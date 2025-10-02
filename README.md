@@ -40,7 +40,7 @@ https://github.com/user-attachments/assets/a7daa225-4d11-4594-b76a-133685eb1ade
 * Error Handling: Handles with invalid city names and API issues.
 
 
-## ☔️ Getting Started
+## Getting Started
 
 1. Fork the Repo Or Access the Live Web Page
    * Or Use Replit to Fork the Code: https://replit.com/@ri2who/Tempest-Weather-App-Ritu-S?v=1#index.html

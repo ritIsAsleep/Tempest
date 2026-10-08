@@ -1,4 +1,4 @@
-# Tempest: Know Your Weather, Instantly.
+# Tempest: Know Your Weather!
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![GitHub stars](https://img.shields.io/github/stars/ritIsAsleep/Tempest.svg?style=social)](https://github.com/ritIsAsleep/Tempest/stargazers) [![GitHub forks](https://img.shields.io/github/forks/ritIsAsleep/Tempest.svg?style=social)](https://github.com/ritIsAsleep/Tempest/network/members)
 
